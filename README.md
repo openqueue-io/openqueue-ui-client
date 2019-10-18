@@ -1,2 +1,2 @@
 # openqueue-ui-client
-UI for client while waiting in the queue.
+UI for clients while waiting in the queue.
